@@ -1,0 +1,18 @@
+[project]
+name = "banxico"
+version = "0.1.0"
+description = "Banxico Indicators Extractor"
+authors = [
+    {name = "Gabriel Martin del Campo", email = "gabrielmartindelcampo@luzcapital.com"},
+]
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "requests>=2.30.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"

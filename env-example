@@ -1,0 +1,4 @@
+TOKEN=f269c41288bca15256c71427f4f064a4a2cc1312377577c5a157f2dd73e5689w
+URL=https://www.banxico.org.mx/SieAPIRest/service/v1/series/
+FORMAT=JSON
+LANGUAGE=ENG
